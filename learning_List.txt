@@ -2,7 +2,7 @@ Todo Learning List:
 
 Python
 Javascript
-Django
+Flask
 Angular7
 nodejs
 html 
