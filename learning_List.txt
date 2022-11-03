@@ -1,0 +1,11 @@
+Todo Learning List:
+
+Python
+Javascript
+Django
+Angular7
+nodejs
+html 
+css
+pyspark
+SQL
