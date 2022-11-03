@@ -1,6 +1,6 @@
 Todo Learning List:
 
-Python
+Python is first
 Javascript
 Flask
 Angular7
