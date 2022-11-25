@@ -1,2 +1,2 @@
-# python_myProjects
+# python_simple
 exploring python
